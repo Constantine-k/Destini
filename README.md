@@ -1,5 +1,4 @@
 # Destini
+iOS app that is a simple text adventure game.
 
-
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+![Finished App](https://github.com/Constantine-k/Images/blob/master/Destini.png)
